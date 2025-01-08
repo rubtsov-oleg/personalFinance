@@ -1,0 +1,48 @@
+USER,test,test
+CATEGORY,test,Входящие переводы,-1.0
+CATEGORY,test,Исходящие переводы,5000.0
+CATEGORY,test,Зарплата,-1.0
+CATEGORY,test,Напитки,10000.0
+CATEGORY,test,Чипсы,15000.0
+TRANSACTION,test,false,48800.0,Зарплата
+TRANSACTION,test,true,12000.0,Напитки
+TRANSACTION,test,true,7500.0,Чипсы
+TRANSACTION,test,true,5500.0,Чипсы
+TRANSACTION,test,true,1000.0,Чипсы
+TRANSACTION,test,true,2000.0,Чипсы
+TRANSACTION,test,false,123.0,Зарплата
+USER,usr,pass123
+CATEGORY,usr,Входящие переводы,-1.0
+CATEGORY,usr,Исходящие переводы,5000.0
+CATEGORY,usr,Зарплата,-1.0
+CATEGORY,usr,Еда,5000.0
+CATEGORY,usr,Бонус,-1.0
+CATEGORY,usr,Компьютер,43000.0
+TRANSACTION,usr,false,20000.0,Зарплата
+TRANSACTION,usr,true,3000.0,Еда
+TRANSACTION,usr,true,6000.0,Еда
+TRANSACTION,usr,false,500.0,Бонус
+TRANSACTION,usr,true,35000.0,Компьютер
+TRANSACTION,usr,false,100000.0,Зарплата
+TRANSACTION,usr,true,10000.0,Исходящие переводы
+USER,oleg,qwe123
+CATEGORY,oleg,Входящие переводы,-1.0
+CATEGORY,oleg,Исходящие переводы,5000.0
+CATEGORY,oleg,Коммунальные услуги,2500.0
+CATEGORY,oleg,Зарплата,-1.0
+CATEGORY,oleg,Бонус,-1.0
+CATEGORY,oleg,Еда,4000.0
+CATEGORY,oleg,Развлечения,3000.0
+CATEGORY,oleg,Такси,5000.0
+TRANSACTION,oleg,false,20000.0,Зарплата
+TRANSACTION,oleg,false,40000.0,Зарплата
+TRANSACTION,oleg,false,3000.0,Бонус
+TRANSACTION,oleg,true,300.0,Еда
+TRANSACTION,oleg,true,500.0,Еда
+TRANSACTION,oleg,true,3000.0,Развлечения
+TRANSACTION,oleg,true,1500.0,Такси
+TRANSACTION,oleg,true,3000.0,Коммунальные услуги
+TRANSACTION,oleg,false,10000.0,Входящие переводы
+USER,vasya,qwe123
+CATEGORY,vasya,Входящие переводы,-1.0
+CATEGORY,vasya,Исходящие переводы,5000.0
